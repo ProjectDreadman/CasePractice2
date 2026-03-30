@@ -11,7 +11,7 @@ this was a practice of case statments, this progam is just a basic calculator
 1. Clone the repo: `git clone https://github.com/ProjectDreadman/BasicMath.git`
 2. Install dependencies: there are not as of right now
 3. Open the project: Navigate to the folder ans double-click the .sln (Solution) file to open it in visual studio
-4. Run the project: Press Ctrl + F5 or press the Start Button (the green play button)
+4. Run the project: Press Ctrl + F5 
 
 ## Usage
 Can be used for anything aslong as it is not selled for a profit!!!
